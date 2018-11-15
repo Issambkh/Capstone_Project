@@ -1,0 +1,214 @@
+postcode;latitude;longitude;town;region;uk_region;country;country_string
+BR1;51.41107;0.02192;Bromley;Greater London;London;ENG;England
+BR2;51.38858;0.02237;Bromley;Greater London;London;ENG;England
+BR3;51.40297;-0.0302;Bromley;Greater London;London;ENG;England
+BR4;51.37559;-0.00695;Bromley;Greater London;London;ENG;England
+BR5;51.38983;0.10436;Bromley;Greater London;London;ENG;England
+BR6;51.36575;0.0932;Bromley;Greater London;London;ENG;England
+BR7;51.41019;0.07222;Bromley;Greater London;London;ENG;England
+CR0;51.37223;-0.07463;Croydon;Greater London;London;ENG;England
+CR2;51.34983;-0.07988;Croydon;Greater London;London;ENG;England
+CR4;51.40415;-0.15813;Merton;Greater London;London;ENG;England
+CR5;51.31211;-0.13886;Croydon;Greater London;London;ENG;England
+CR7;51.39517;-0.10242;Croydon;Greater London;London;ENG;England
+CR8;51.33594;-0.11061;Croydon;Greater London;London;ENG;England
+CR9;51.37223;-0.07463;Croydon;Greater London;London;ENG;England
+DA14;51.42475;0.11316;Bexley;Greater London;London;ENG;England
+DA15;51.44029;0.09948;Bexley;Greater London;London;ENG;England
+DA17;51.48706;0.14917;Crayford;Greater London;London;ENG;England
+DA18;51.49165;0.14363;Crayford;Greater London;London;ENG;England
+DA5;51.44033;0.14698;Bexley;Greater London;London;ENG;England
+DA6;51.45484;0.14046;Bexley;Greater London;London;ENG;England
+DA7;51.46552;0.14672;Crayford;Greater London;London;ENG;England
+DA8;51.47574;0.17745;Crayford;Greater London;London;ENG;England
+E1;51.51766;-0.05841;Poplar;Greater London;London;ENG;England
+E10;51.56814;-0.01153;Walthamstow;Greater London;London;ENG;England
+E11;51.56769;0.01443;Walthamstow;Greater London;London;ENG;England
+E12;51.54992;0.05404;Stratford;Greater London;London;ENG;England
+E15;51.53911;0.00307;Stratford;Greater London;London;ENG;England
+E16;51.51083;0.02633;East Ham;Greater London;London;ENG;England
+E17;51.58623;-0.01796;Walthamstow;Greater London;London;ENG;England
+E18;51.59176;0.02705;Ilford;Greater London;London;ENG;England
+E1W;51.50775;-0.05739;Poplar;Greater London;London;ENG;England
+E2;51.52939;-0.0608;Poplar;Greater London;London;ENG;England
+E20;51.54593;0.09248;Queen Elizabeth Olympic Park;Greater London;London;ENG;England
+E3;51.52789;-0.02482;Poplar;Greater London;London;ENG;England
+E4;51.62196;-0.00339;Walthamstow;Greater London;London;ENG;England
+E5;51.55893;-0.05233;Hackney;Greater London;London;ENG;England
+E7;51.54678;0.02793;Stratford;Greater London;London;ENG;England
+E8;51.54202;-0.06315;Hackney;Greater London;London;ENG;England
+E9;51.54258;-0.04293;Hackney;Greater London;London;ENG;England
+EC1;51.52286;-0.10144;Islington;Greater London;London;ENG;England
+EC1A;51.52019;-0.103;Islington;Greater London;London;ENG;England
+EC1M;51.52106;-0.10152;Islington;Greater London;London;ENG;England
+EC1N;51.52026;-0.10732;Camden Town;Greater London;London;ENG;England
+EC1R;51.52475;-0.10713;Islington;Greater London;London;ENG;England
+EC1V;51.52549;-0.09701;Islington;Greater London;London;ENG;England
+EC1Y;51.52272;-0.0928;Islington;Greater London;London;ENG;England
+EC2;51.51995;-0.08859;Islington;Greater London;London;ENG;England
+EC3P;51.52016;-0.10156;Islington;Greater London;London;ENG;England
+EN3;51.65852;-0.03794;Enfield;Greater London;London;ENG;England
+EN5;51.64934;-0.19447;Barnet;Greater London;London;ENG;England
+HA0;51.55024;-0.3037;Brent;Greater London;London;ENG;England
+HA1;51.57948;-0.33581;Harrow;Greater London;London;ENG;England
+HA2;51.57349;-0.35768;Harrow;Greater London;London;ENG;England
+HA3;51.59274;-0.31945;Harrow;Greater London;London;ENG;England
+HA4;51.56971;-0.40977;Hillingdon;Greater London;London;ENG;England
+HA5;51.59455;-0.38436;Harrow;Greater London;London;ENG;England
+HA6;51.61032;-0.41991;Hillingdon;Greater London;London;ENG;England
+HA7;51.60965;-0.30727;Harrow;Greater London;London;ENG;England
+HA8;51.61094;-0.27255;Barnet;Greater London;London;ENG;England
+HA9;51.55898;-0.28606;Brent;Greater London;London;ENG;England
+IG1;51.55855;0.07463;Ilford;Greater London;London;ENG;England
+IG11;51.53573;0.09378;Barking;Greater London;London;ENG;England
+IG2;51.57373;0.08109;Ilford;Greater London;London;ENG;England
+IG3;51.56168;0.10074;Ilford;Greater London;London;ENG;England
+IG4;51.57688;0.05525;Ilford;Greater London;London;ENG;England
+IG5;51.58749;0.06584;Ilford;Greater London;London;ENG;England
+IG6;51.59247;0.08917;Ilford;Greater London;London;ENG;England
+IG8;51.60694;0.0335;Ilford;Greater London;London;ENG;England
+KT1;51.40713;-0.29606;Kingston Upon Thames;Greater London;London;ENG;England
+KT2;51.41602;-0.28854;Kingston Upon Thames;Greater London;London;ENG;England
+KT3;51.39935;-0.25609;Kingston Upon Thames;Greater London;London;ENG;England
+KT4;51.37757;-0.24255;Sutton;Greater London;London;ENG;England
+KT5;51.39171;-0.28657;Kingston Upon Thames;Greater London;London;ENG;England
+KT9;51.36405;-0.30197;Kingston Upon Thames;Greater London;London;ENG;England
+N1;51.53717;-0.09652;Islington;Greater London;London;ENG;England
+N10;51.59368;-0.14325;Tottenham;Greater London;London;ENG;England
+N11;51.61338;-0.13812;Enfield;Greater London;London;ENG;England
+N12;51.61487;-0.17561;Barnet;Greater London;London;ENG;England
+N14;51.63392;-0.1286;Enfield;Greater London;London;ENG;England
+N17;51.59791;-0.07088;Tottenham;Greater London;London;ENG;England
+N18;51.61309;-0.06446;Enfield;Greater London;London;ENG;England
+N19;51.56464;-0.12712;Islington;Greater London;London;ENG;England
+N1C;51.53626;-0.12572;King's Cross;Greater London;London;ENG;England
+N2;51.58957;-0.16797;Barnet;Greater London;London;ENG;England
+N20;51.62923;-0.17359;Barnet;Greater London;London;ENG;England
+N21;51.63612;-0.09816;Enfield;Greater London;London;ENG;England
+N22;51.59944;-0.1098;Tottenham;Greater London;London;ENG;England
+N3;51.59984;-0.1921;Barnet;Greater London;London;ENG;England
+N4;51.57052;-0.1009;Hackney;Greater London;London;ENG;England
+N5;51.55337;-0.09729;Islington;Greater London;London;ENG;England
+N6;51.57116;-0.14129;Tottenham;Greater London;London;ENG;England
+N7;51.55277;-0.11607;Islington;Greater London;London;ENG;England
+N8;51.58335;-0.11625;Tottenham;Greater London;London;ENG;England
+N9;51.62825;-0.05659;Enfield;Greater London;London;ENG;England
+NW1;51.53252;-0.14286;Camden Town;Greater London;London;ENG;England
+NW10;51.53951;-0.24641;Brent;Greater London;London;ENG;England
+NW11;51.57831;-0.19584;Barnet;Greater London;London;ENG;England
+NW2;51.55797;-0.21829;Brent;Greater London;London;ENG;England
+NW3;51.55184;-0.17093;Camden Town;Greater London;London;ENG;England
+NW4;51.58682;-0.22294;Barnet;Greater London;London;ENG;England
+NW5;51.55139;-0.14209;Camden Town;Greater London;London;ENG;England
+NW6;51.54142;-0.19442;Camden Town;Greater London;London;ENG;England
+NW7;51.61488;-0.23484;Barnet;Greater London;London;ENG;England
+NW8;51.53117;-0.17175;Paddington;Greater London;London;ENG;England
+RM1;51.58175;0.18395;Romford;Greater London;London;ENG;England
+RM10;51.54443;0.15909;Barking;Greater London;London;ENG;England
+RM11;51.56939;0.21944;Romford;Greater London;London;ENG;England
+RM12;51.55251;0.20852;Romford;Greater London;London;ENG;England
+RM13;51.52397;0.19561;Romford;Greater London;London;ENG;England
+RM14;51.55593;0.26496;Romford;Greater London;London;ENG;England
+RM3;51.60163;0.22679;Romford;Greater London;London;ENG;England
+RM5;51.59917;0.16602;Romford;Greater London;London;ENG;England
+RM6;51.57549;0.13313;Barking;Greater London;London;ENG;England
+RM8;51.55662;0.13225;Barking;Greater London;London;ENG;England
+RM9;51.54036;0.13582;Barking;Greater London;London;ENG;England
+SE1;51.49838;-0.08949;Camberwell;Greater London;London;ENG;England
+SE10;51.48162;-0.00089;Greenwich;Greater London;London;ENG;England
+SE13;51.45837;-0.0091;Lewisham;Greater London;London;ENG;England
+SE14;51.47511;-0.0415;Lewisham;Greater London;London;ENG;England
+SE15;51.47189;-0.06468;Camberwell;Greater London;London;ENG;England
+SE16;51.49597;-0.05213;Camberwell;Greater London;London;ENG;England
+SE17;51.48764;-0.09282;Camberwell;Greater London;London;ENG;England
+SE18;51.48391;0.07412;Eltham;Greater London;London;ENG;England
+SE19;51.41735;-0.08424;Croydon;Greater London;London;ENG;England
+SE2;51.48943;0.11759;Eltham;Greater London;London;ENG;England
+SE20;51.41151;-0.05716;Bromley;Greater London;London;ENG;England
+SE21;51.43807;-0.08626;Camberwell;Greater London;London;ENG;England
+SE22;51.45401;-0.07119;Camberwell;Greater London;London;ENG;England
+SE23;51.44015;-0.04875;Lewisham;Greater London;London;ENG;England
+SE24;51.45446;-0.09853;Camberwell;Greater London;London;ENG;England
+SE25;51.39742;-0.07501;Croydon;Greater London;London;ENG;England
+SE26;51.42674;-0.05364;Lewisham;Greater London;London;ENG;England
+SE27;51.43022;-0.10097;Lambeth;Greater London;London;ENG;England
+SE28;51.50219;0.10809;Eltham;Greater London;London;ENG;England
+SE3;51.46866;0.02015;Greenwich;Greater London;London;ENG;England
+SE4;51.46058;-0.03348;Lewisham;Greater London;London;ENG;England
+SE5;51.47322;-0.09055;Camberwell;Greater London;London;ENG;England
+SE6;51.43777;-0.01432;Lewisham;Greater London;London;ENG;England
+SE7;51.48369;0.03521;Greenwich;Greater London;London;ENG;England
+SE8;51.48118;-0.02828;Lewisham;Greater London;London;ENG;England
+SE9;51.44465;0.05651;Eltham;Greater London;London;ENG;England
+SM1;51.36599;-0.19127;Sutton;Greater London;London;ENG;England
+SM2;51.35258;-0.19611;Sutton;Greater London;London;ENG;England
+SM3;51.36992;-0.21267;Sutton;Greater London;London;ENG;England
+SM4;51.39219;-0.19886;Merton;Greater London;London;ENG;England
+SM5;51.36741;-0.16679;Sutton;Greater London;London;ENG;England
+SM6;51.35984;-0.14267;Sutton;Greater London;London;ENG;England
+SW10;51.48365;-0.18086;Kensington;Greater London;London;ENG;England
+SW12;51.44536;-0.14784;Wandsworth;Greater London;London;ENG;England
+SW13;51.47473;-0.24458;Richmond;Greater London;London;ENG;England
+SW14;51.46514;-0.26511;Richmond;Greater London;London;ENG;England
+SW15;51.45734;-0.22509;Wandsworth;Greater London;London;ENG;England
+SW16;51.42165;-0.12722;Lambeth;Greater London;London;ENG;England
+SW19;51.42284;-0.20341;Merton;Greater London;London;ENG;England
+SW2;51.44939;-0.11889;Lambeth;Greater London;London;ENG;England
+SW20;51.41058;-0.22547;Merton;Greater London;London;ENG;England
+SW3;51.48969;-0.16477;Kensington;Greater London;London;ENG;England
+SW4;51.46045;-0.13571;Lambeth;Greater London;London;ENG;England
+SW5;51.49005;-0.18781;Kensington;Greater London;London;ENG;England
+SW6;51.47675;-0.19986;Hammersmith;Greater London;London;ENG;England
+SW7;51.49614;-0.1746;Kensington;Greater London;London;ENG;England
+SW8;51.47566;-0.13077;Lambeth;Greater London;London;ENG;England
+SW9;51.46907;-0.11232;Lambeth;Greater London;London;ENG;England
+TN16;51.29362;0.05262;;Greater London;London;ENG;England
+TW1;51.44982;-0.3247;Richmond;Greater London;London;ENG;England
+TW10;51.44949;-0.30168;Richmond;Greater London;London;ENG;England
+TW11;51.42653;-0.33131;Richmond;Greater London;London;ENG;England
+TW12;51.42166;-0.36888;Richmond;Greater London;London;ENG;England
+TW13;51.43828;-0.39995;Hounslow;Greater London;London;ENG;England
+TW14;51.45202;-0.41818;Hounslow;Greater London;London;ENG;England
+TW2;51.44657;-0.34929;Richmond;Greater London;London;ENG;England
+TW3;51.46742;-0.36149;Hounslow;Greater London;London;ENG;England
+TW4;51.46593;-0.38314;Hounslow;Greater London;London;ENG;England
+TW5;51.48029;-0.3812;Hounslow;Greater London;London;ENG;England
+TW6;51.46948;-0.44638;Hillingdon;Greater London;London;ENG;England
+TW7;51.47331;-0.33248;Hounslow;Greater London;London;ENG;England
+TW8;51.48552;-0.30611;Hounslow;Greater London;London;ENG;England
+TW9;51.46736;-0.29382;Richmond;Greater London;London;ENG;England
+UB1;51.51435;-0.37278;Southall;Greater London;London;ENG;England
+UB11;51.51909;-0.45766;Hillingdon;Greater London;London;ENG;England
+UB2;51.49915;-0.37909;Southall;Greater London;London;ENG;England
+UB3;51.50513;-0.42211;Hillingdon;Greater London;London;ENG;England
+UB4;51.52381;-0.40704;Hillingdon;Greater London;London;ENG;England
+UB5;51.54315;-0.37464;Southall;Greater London;London;ENG;England
+UB6;51.53911;-0.34306;Southall;Greater London;London;ENG;England
+UB7;51.50576;-0.46964;Hillingdon;Greater London;London;ENG;England
+UB8;51.53458;-0.473;Hillingdon;Greater London;London;ENG;England
+W10;51.52103;-0.21397;Kensington;Greater London;London;ENG;England
+W11;51.51189;-0.20424;Kensington;Greater London;London;ENG;England
+W12;51.50777;-0.2289;Hammersmith;Greater London;London;ENG;England
+W14;51.49488;-0.20923;Hammersmith;Greater London;London;ENG;England
+W1G;51.51818;-0.14633;Paddington;Greater London;London;ENG;England
+W1H;51.51659;-0.15936;Paddington;Greater London;London;ENG;England
+W1M;51.51823;-0.14921;Paddington;Greater London;London;ENG;England
+W1U;51.51827;-0.15209;Paddington;Greater London;London;ENG;England
+W1W;51.51897;-0.13909;Paddington;Greater London;London;ENG;England
+W2;51.51508;-0.17816;Paddington;Greater London;London;ENG;England
+W3;51.50925;-0.26775;Ealing;Greater London;London;ENG;England
+W4;51.49118;-0.26268;Hounslow;Greater London;London;ENG;England
+W5;51.51243;-0.30078;Ealing;Greater London;London;ENG;England
+W6;51.49246;-0.22805;Hammersmith;Greater London;London;ENG;England
+W8;51.50003;-0.19317;Kensington;Greater London;London;ENG;England
+W9;51.52607;-0.1907;Paddington;Greater London;London;ENG;England
+WC1;51.52139;-0.12169;Camden Town;Greater London;London;ENG;England
+WC1A;51.51694;-0.12475;Camden Town;Greater London;London;ENG;England
+WC1B;51.51876;-0.12612;Camden Town;Greater London;London;ENG;England
+WC1E;51.52065;-0.13181;Camden Town;Greater London;London;ENG;England
+WC1H;51.52415;-0.1259;Camden Town;Greater London;London;ENG;England
+WC1N;51.52136;-0.12025;Camden Town;Greater London;London;ENG;England
+WC1V;51.51685;-0.11899;Camden Town;Greater London;London;ENG;England
+WC1X;51.52489;-0.11578;Camden Town;Greater London;London;ENG;England
+WC2A;51.51588;-0.11471;Camden Town;Greater London;London;ENG;England
+WC2H;51.51339;-0.12778;Camden Town;Greater London;London;ENG;England
